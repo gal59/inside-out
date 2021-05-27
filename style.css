@@ -1,0 +1,74 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main{
+    background-color: bisque;
+    padding: 10px;
+}
+.flexEx2{
+    background-color: rgb(194, 130, 194);
+    display: flex;
+    padding: 10px;
+    width: 1330px;
+}
+.block{
+    margin: 9px auto;
+}
+.sadness-block{
+    background-color: lightblue;
+    display: flex;
+    padding: 10px;
+    margin: 20px auto;
+    width: 770px;
+}
+.sadness{
+    font-weight: bold;
+    text-decoration: underline;
+}
+.sadness2{
+    font-style: italic;
+}
+.sadness-text{
+    margin-left: 6px;
+}
+.joy-block{
+    background-color: rgb(216, 216, 128);
+    padding: 10px;
+    width: 570px;
+    margin-left: 5px;
+}
+.joy{
+    font-weight: bold;
+    text-decoration: underline;
+}
+.joy2{
+    text-decoration: underline;
+}
+.pic{
+    margin: 0 160px;
+}
+.pic2{
+    margin: 0 50px;
+}
+.block-section2{
+    display: flex;
+    align-items: flex-start;
+}
+.disgust-block{
+    background-color: rgb(103, 189, 92);
+    padding: 13px;
+    width: 409px;
+    margin-right: 30px;
+}
+.fear-block{
+    background-color: rgb(186, 59, 211);
+    padding: 13px;
+    width: 400px;
+    margin-right: 20px;
+}
+.anger-block{
+    background-color: rgb(192, 61, 61);
+    padding: 13px;
+    width: 400px;
+    margin-left: 12px;
+}
